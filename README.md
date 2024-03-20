@@ -15,17 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/xieyanker">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xieyanker&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xieyanker&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+![Xieyanker's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=xieyanker&show_icons=true&theme=algolia&include_all_commits=true&count_private=true\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
-### 🤝🏻 &nbsp;Connect with Me
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xieyanker)
 
-<p align="center">
-  <a href="mailto:xjsisnice@gmail.com">Email</a>
-</p>
+[Xieyanker's PRs](https://github.com/pulls?q=is%3Apr+author%3Axieyanker+archived%3Afalse+is%3Aclosed)
+
+[Xieyanker's Issues](https://github.com/issues?q=is%3Aissue+author%3Axieyanker+archived%3Afalse+is%3Aclosed)
+
+[Xieyanker's Email](mailto:xjsisnice@gmail.com)
