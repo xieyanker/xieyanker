@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Xieyanker's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=xieyanker&show_icons=true&theme=algolia&include_all_commits=true&count_private=true\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xieyanker)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xieyanker\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 [Xieyanker's PRs](https://github.com/pulls?q=is%3Apr+author%3Axieyanker+archived%3Afalse+is%3Aclosed)
 
