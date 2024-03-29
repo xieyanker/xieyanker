@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 
-🎯  [xieyanker's PRs](https://github.com/pulls?q=is%3Apr+author%3Axieyanker+archived%3Afalse+is%3Aclosed)
+🎯  [xieyanker's PRs on github](https://github.com/pulls?q=is%3Apr+author%3Axieyanker+archived%3Afalse+is%3Aclosed)
 
 🏕️  [xieyanker's PRs on openstack gerrit](https://review.opendev.org/q/project:openstack/kuryr-kubernetes+author:xjsisnice@gmail.com)
 
